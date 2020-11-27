@@ -1,2 +1,1 @@
-que tal?
-bien
+Este repostiorio es para crear una página web en conjunto y empezar a trabajar con Git y GitHub, solo con fines educativos.

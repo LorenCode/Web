@@ -1,0 +1,46 @@
+.seccion{
+    display: flex;
+    padding: 2.5%;
+    width: 100%;
+    
+    justify-content: center;
+}
+
+.box1{
+    width: 25%;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 15px;
+    padding: 2%;
+    text-align: center;
+    box-shadow: 2px 2px 8px black;
+}
+
+
+.box2{
+    width: 25%;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2%;
+    text-align: center;
+    box-shadow: 2px 2px 8px black;
+
+}
+
+.seccion img{
+    width: 80%;
+    height: 30%;
+}
+
+.boton{
+    text-decoration: none;
+    color: blue;
+    background-color: darkseagreen;
+    border: 1px solid darkolivegreen;
+    border-radius: 4px;
+    padding: 8px;
+    
+}
